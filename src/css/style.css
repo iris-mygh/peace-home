@@ -52,19 +52,19 @@ button {
   width: 82px;
   height: 36px;
   float: right;
-  border: 2px solid white;
+  border: 2px solid green;
   border-radius: 100px;
   text-align: center;
   line-height: 36px;
 }
 
 .header .ul-banner .sign-in a {
-  color: white;
+  color: green;
   width: 100%;
 }
 
 .header .ul-banner .about-us a {
-  color: white;
+  color: green;
 }
 
 .header .icon-and-text span {
