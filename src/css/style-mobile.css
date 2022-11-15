@@ -234,19 +234,25 @@
   }
 
   .slogan {
-    margin-top: -78px;
-    margin-bottom: 78px;
+    margin-top: -30px;
+    margin-bottom: 30px;
     font-size: larger;
   }
 
   .distance {
-    margin-top: -80px !important;
+    margin-top: -70px !important;
     margin-bottom: -80px !important;
   }
 
   .distance-bt {
-    margin-top: -80px !important;
+    margin-top: 19px !important;
+    margin-bottom: -85px !important;
+  }
+
+  .distance-tx {
+    margin-top: 6px !important;
     margin-bottom: -80px !important;
+    color: #ffffff !important;
   }
 
   .copy-right {

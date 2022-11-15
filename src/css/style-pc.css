@@ -219,13 +219,18 @@
   }
 
   .distance {
-    margin-top: 18px !important;
-    margin-bottom: -160px !important;
+    margin-top: -38px !important;
+    margin-bottom: -200px !important;
   }
 
   .distance-bt {
     margin-top: -80px !important;
     margin-bottom: -80px !important;
+  }
+
+  .distance-tx {
+    margin-top: 104px !important;
+    margin-bottom: -81px !important;
   }
 
   .copy-right {
