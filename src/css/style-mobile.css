@@ -224,8 +224,8 @@
   }
 
   .logo-head {
-    height: 180px !important;
-    width: 180px !important;
+    height: 80px !important;
+    width: 80px !important;
   }
 
   .logo-foot {
@@ -234,9 +234,19 @@
   }
 
   .slogan {
-    margin-top: -286px !important;
-    margin-bottom: 304px !important;
-    font-size: x-large;
+    margin-top: -78px;
+    margin-bottom: 78px;
+    font-size: larger;
+  }
+
+  .distance {
+    margin-top: -80px !important;
+    margin-bottom: -80px !important;
+  }
+
+  .distance-bt {
+    margin-top: -80px !important;
+    margin-bottom: -80px !important;
   }
 
   .copy-right {
